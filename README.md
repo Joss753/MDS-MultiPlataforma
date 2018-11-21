@@ -1,2 +1,2 @@
-# MDS---MultiPlataforma
+# MDS-MultiPlataforma
 Demo Colaborativo 
